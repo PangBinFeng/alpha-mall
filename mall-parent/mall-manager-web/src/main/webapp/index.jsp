@@ -12,9 +12,9 @@
 <script type="text/javascript">
 
 </script>
-<title>title here</title>
+<title>Alpha Mall</title>
 </head>
 <body>
-    Hello
+    <jsp:forward page="WEB-INF/jsp/index.jsp"/>
 </body>
 </html>
