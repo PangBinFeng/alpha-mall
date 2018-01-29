@@ -15,6 +15,6 @@
     <title>Alpha Mall</title>
 </head>
 <body>
-    <a href="">Generator your js Files</a>
+    <a href="queryAllTMallClassInfo">Generator your js Files</a>
 </body>
 </html>

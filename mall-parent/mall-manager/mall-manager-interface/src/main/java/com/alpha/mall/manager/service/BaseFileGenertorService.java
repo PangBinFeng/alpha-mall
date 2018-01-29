@@ -2,7 +2,6 @@ package com.alpha.mall.manager.service;
 
 import com.alpha.mall.manager.pojo.TMallClass1;
 import com.alpha.mall.manager.transpojo.TMallClassDTO;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
@@ -11,7 +10,6 @@ import java.util.List;
  * @author : alphad1
  * @date : 2018/1/27 0027
  */
-@Service
 public interface BaseFileGenertorService {
 
     /**
