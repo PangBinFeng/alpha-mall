@@ -54,7 +54,4 @@ public class BaseFileGenertorServiceImpl implements BaseFileGenertorService {
         return null;
     }
 
-    public static void main(String[] args) {
-
-    }
 }
