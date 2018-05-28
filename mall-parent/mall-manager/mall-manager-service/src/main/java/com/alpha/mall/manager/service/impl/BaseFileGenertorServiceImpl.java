@@ -30,6 +30,8 @@ public class BaseFileGenertorServiceImpl implements BaseFileGenertorService {
     @Autowired
     TMallClass2Mapper tMallClass2Mapper;
 
+
+
     @Override
     public List<TMallClassDTO> queryAllTMallClassInfo() {
         TMallClass1Example tMallClass1Example = new TMallClass1Example();
@@ -46,5 +48,9 @@ public class BaseFileGenertorServiceImpl implements BaseFileGenertorService {
 
         }
         return null;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
