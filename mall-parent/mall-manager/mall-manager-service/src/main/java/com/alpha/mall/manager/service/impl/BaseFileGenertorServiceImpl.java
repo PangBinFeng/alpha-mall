@@ -24,6 +24,10 @@ public class BaseFileGenertorServiceImpl implements BaseFileGenertorService {
 
     private final Logger logger = LoggerFactory.getLogger(BaseFileGenertorServiceImpl.class);
 
+    public static void main(String[] args) {
+
+    }
+
     @Autowired
     TMallClass1Mapper tMallClass1Mapper;
 
